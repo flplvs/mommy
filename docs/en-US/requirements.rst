@@ -1,6 +1,12 @@
 Requirements Specification
 ===============
 
+Navigation
+------------------
+
+:Docs: `README <https://github.com/flplvs/mommy>`_ - Requirements Specification
+:Languages: en-US - `pt-BR <https://github.com/flplvs/mommy/blob/main/docs/pt-BR/requirements.rst>`_
+
 Non-Functional Requirements
 ------------------
 

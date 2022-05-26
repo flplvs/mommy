@@ -7,6 +7,12 @@ providing time and efficiency in her financial control.
 All documentation is in the "``docs``" directory, which is constantly updated
 for a better understanding of how the project works.
 
+Navigation
+------------------
+
+:Docs: README - `Requirements Specification <https://github.com/flplvs/mommy/blob/main/docs/en-US/requirements.rst>`_
+:Languages: en-US - `pt-BR <https://github.com/flplvs/mommy/blob/main/docs/pt-BR/README.rst>`_
+
 Technologies
 ------------------
 

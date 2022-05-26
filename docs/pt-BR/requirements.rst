@@ -1,6 +1,12 @@
 Especificação de Requisitos
 ===============
 
+Navegação
+------------------
+
+:Documentos: `README <https://github.com/flplvs/mommy/tree/main/docs/pt-BR>`_ - Especificação de Requisitos
+:Idiomas: `en-US <https://github.com/flplvs/mommy/blob/main/docs/en-US/requirements.rst>`_ - pt-BR
+
 Requisitos Não-Funcionais
 ------------------
 
