@@ -53,10 +53,10 @@ FR 02
 The system must allow the user to create an account.
 
 - The form must have the following fields: ``email``, ``password`` and
-  ``confirm``password``.
+  ``confirm_password``.
 - The ``email`` field must allow a minimum of 6 and a maximum of 254 characters.
 - The ``password`` field must allow a minimum of 8 and a maximum of 38 characters.
-- The ``confirm``password`` field must allow a minimum of 8 and a maximum of 38
+- The ``confirm_password`` field must allow a minimum of 8 and a maximum of 38
   characters.
 - Form fields must be mandatory.
 - It should display toasts on successful and unsuccessful attempts.
